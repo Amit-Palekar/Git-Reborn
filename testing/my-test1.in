@@ -1,0 +1,9 @@
+# add two files
+> init
+<<<
++ c.txt wug2.txt
+> add c.txt
+<<<
++ d.txt wug.txt
+> add d.txt
+<<<

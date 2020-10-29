@@ -1,0 +1,15 @@
+# add two files
+> init
+<<<
++ b.txt wug3.txt
+> add b.txt
+<<<
++ d.txt wug2.txt
+> add d.txt
+<<<
+> add h.txt
+File does not exist.
+<<<
+> commit "Hello"
+<<<
+
